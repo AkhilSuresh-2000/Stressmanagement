@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AD5862CA-C9A1-44D3-8EB4-E353BA4232E2}|Default">
+  <MonoDevelop.Ide.ItemProperties.StressManagement.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.ItemProperties.StressManagement.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B37C7DA3-FBC8-47AD-AA51-66CB463C4C14" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StressManagement/StressManagement/App.xaml.cs">
+    <Files>
+      <File FileName="StressManagement/StressManagement/NewsPage.xaml" Line="1" Column="1" />
+      <File FileName="StressManagement/StressManagement/App.xaml.cs" Line="17" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StressManagement" expanded="True">
+            <Node name="StressManagement" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
